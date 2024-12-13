@@ -1,5 +1,3 @@
-[![Welcome Banner](github_banner.png)](https://github.com/hasanmova "Hasan Movahed's GitHub Profile")
-
 <h1 align="center">👋 Hello, I'm Hasan Movahed! 👨‍💻</h1>
 
 <p align="center">
@@ -34,11 +32,17 @@
 
 <h3 align="center">🌐 Connect With Me</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/hasan-movahed/" target="_blank">
+  <a href="https://www.linkedin.com/in/hasanmovahed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://github.com/HasanMovahed" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.instagram.com/hasan.mova/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://t.me/hasanmova" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
 
