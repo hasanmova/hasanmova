@@ -1,4 +1,4 @@
-[![Welcome Banner](github_banner.png)](https://github.com/HasanMovahed "Hasan Movahed's GitHub Profile")
+[![Welcome Banner](github_banner.png)](https://github.com/hasanmova "Hasan Movahed's GitHub Profile")
 
 <h1 align="center">👋 Hello, I'm Hasan Movahed! 👨‍💻</h1>
 
