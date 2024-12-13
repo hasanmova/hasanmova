@@ -15,8 +15,8 @@
 
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HasanMovahed&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=HasanMovahed&theme=radical&hide_border=true" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasanmova&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hasanmova&theme=radical&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
@@ -35,7 +35,7 @@
   <a href="https://www.linkedin.com/in/hasanmovahed/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/HasanMovahed" target="_blank">
+  <a href="https://github.com/hasanmova" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://www.instagram.com/hasan.mova/" target="_blank">
